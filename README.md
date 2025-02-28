@@ -4,12 +4,37 @@ GridGenius is a powerful and intuitive spreadsheet application inspired by Googl
 
 ## Features
 
-- **Spreadsheet Functionality**: Perform calculations, format cells, and manipulate data like in Google Sheets.
-- **React + TypeScript**: Ensures type safety and maintainability.
-- **Tailwind CSS**: Provides a modern and responsive design.
-- **Cell Editing**: Modify and update cell values dynamically.
-- **Keyboard Shortcuts**: Navigate and interact with the grid efficiently.
-- **Formula Support**: Basic formula evaluation for enhanced productivity.
+### 1. **Spreadsheet Functionality**
+   - Perform calculations, format cells, and manipulate data efficiently.
+   - Supports essential spreadsheet operations like inserting, deleting, and modifying rows and columns.
+
+### 2. **Formula Support**
+   - Allows users to enter mathematical formulas similar to Google Sheets.
+   - Example: `=SUM(A1:A10)` calculates the sum of values in the selected range.
+   - Supports functions like `SUM`, `AVERAGE`, `MAX`, `MIN`, and `COUNT`.
+
+### 3. **Cell Editing**
+   - Click on any cell to edit its value or enter a formula.
+   - Dynamic cell updates ensure smooth and efficient data handling.
+
+### 4. **Keyboard Shortcuts**
+   - Quickly navigate through the spreadsheet using arrow keys.
+   - Press `Enter` to edit a cell and `Esc` to cancel the edit.
+   - Use `Ctrl + C` and `Ctrl + V` for copy-pasting values.
+
+### 5. **Function Reference Panel**
+   - A built-in reference panel displaying available functions and their usage.
+   - Helps users quickly access formula documentation without leaving the application.
+
+### 6. **Modern UI with Tailwind CSS**
+   - Clean and responsive design for an optimal user experience.
+   - Minimalistic interface ensuring focus on the data.
+
+## Screenshot
+
+Below is a screenshot showcasing GridGenius in action:
+
+![GridGenius Screenshot](images/img1.png)
 
 ## Installation
 
