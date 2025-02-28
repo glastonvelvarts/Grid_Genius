@@ -41,9 +41,11 @@ GridGenius is a powerful and intuitive spreadsheet application inspired by Googl
    
 ## Screenshot
 
-Below is a screenshot showcasing GridGenius in action:
+Below are screenshots showcasing GridGenius in action:
 
-![GridGenius Screenshot](images\img1.jpg)
+![GridGenius Screenshot 1](images/img1.jpg)
+---
+![GridGenius Screenshot 2](images/img2.jpg)
 
 ## Installation
 
@@ -54,7 +56,6 @@ git clone https://github.com/yourusername/GridGenius.git
 cd GridGenius
 npm install
 ```
-
 ## Usage
 
 Start the development server:
