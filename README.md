@@ -37,7 +37,6 @@ GridGenius is a powerful and intuitive spreadsheet application inspired by Googl
 
 ### 7. **Bonus Features**
    - **Dark Mode**: Allows users to switch between light and dark themes.
-   - **CSV Import & Export**: Supports importing and exporting data in CSV format.
    
 ## Screenshot
 
