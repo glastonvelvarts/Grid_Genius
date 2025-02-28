@@ -34,7 +34,8 @@ GridGenius is a powerful and intuitive spreadsheet application inspired by Googl
 
 Below is a screenshot showcasing GridGenius in action:
 
-![GridGenius Screenshot](images\img1.jpg)
+![GridGenius Screenshot](./images/image.jpg)
+
 
 ## Installation
 
