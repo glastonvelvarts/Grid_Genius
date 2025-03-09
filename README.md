@@ -2,7 +2,7 @@
 
 GridGenius is a powerful and intuitive spreadsheet application inspired by Google Sheets. Built with React, TypeScript, and Tailwind CSS, it offers a seamless user experience for handling tabular data efficiently.
 
-To check it out -click on Grid-Genius["https://grid-genius.vercel.app/"]
+To check it out -click on [Grid-Genius](https://grid-genius.vercel.app/)
 ## Features
 
 ### 1. **Spreadsheet Functionality**
